@@ -14,8 +14,7 @@ footer {
   padding: 1em;
 }
 
-.flex,
-.top {
+.flex {
   display: flex;
   justify-content: space-between;
 }
